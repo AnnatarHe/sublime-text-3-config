@@ -1,0 +1,25 @@
+<snippet>
+  <content><![CDATA[
+'use strict'
+
+import React from 'react'
+
+class ${1:ClassName} extends React.Component {
+    constructor(props) {
+        super(props)
+    }
+
+    render() {
+        return (
+            ${2: <View></View>}
+        );
+    }
+}
+
+export default ${1:ClassName}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>rea</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>
