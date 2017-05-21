@@ -1,6 +1,12 @@
 ## sublime-text-3-config
 my sublime text 3 config
 
+## location
+
+```bash
+/Users/username/Library/Application Support/Sublime Text 3/Packages/User
+```
+
 ## Usage
 
 ```bash
